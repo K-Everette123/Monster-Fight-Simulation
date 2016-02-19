@@ -9,7 +9,7 @@ The program also uses a loot system. The loot list consists of a sword, shiny da
 
 
 ## Motivation
-**Monster-Fight-Simulation** was created for an assignment in the CS 230 class at Jacksonville State University.
+**Monster-Fight-Simulation** was created for an assignment given in the CS 230 class at Jacksonville State University.
 
 ##Requirements
 * [Python 3.4.4 (Windows)](https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi)
