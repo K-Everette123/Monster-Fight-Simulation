@@ -27,6 +27,8 @@ To use this program complete the following steps:
 * Download and install Python 3.4.4 for whichever OS you have.
 * Download the Monster-Fight-Simulation repository.
 * Un-zip the file.
+* Run Monster-Fight-Simulation.py
+* Follow the on screen instructions to play through the simulation.
 
 
 ##Author
