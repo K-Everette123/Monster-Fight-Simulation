@@ -1,5 +1,10 @@
 # Monster-Fight-Simulation
-**Monster-Fight-Simulation** is a program that  
+**Monster-Fight-Simulation** is a program that allows the to simulate fights against multiple monsters.
+
+For every monster killed the user gains experience pints, and after the user gains 20 experience points they gain 1 level.
+Each level gives the user more damage against the monsters.
+
+
 
 ## Motivation
 **Monster-Fight-Simulation** was created for an assignment in the CS 230 class at Jacksonville State University.
