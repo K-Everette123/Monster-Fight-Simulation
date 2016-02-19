@@ -19,7 +19,7 @@ lm_dmg = 1
 hm_dmg = 5
 item_dmg = 0
 tuff = 0
-loot_list = ["shinny_dagger", "shield", "sword"]            #Create loot list
+loot_list = ["shiny_dagger", "shield", "sword"]            #Create loot list
 
 while roll != "q":                                      #Creates main menu
     p_dmg = random.randint(lp_dmg, hp_dmg)
@@ -280,7 +280,7 @@ while roll != "q":                                      #Creates main menu
                                 kills += 1
                     else:    
                         if loot == 6 or loot == 7:
-                            print("The skeleton dropped a shinny dagger!")
+                            print("The skeleton dropped a shiny dagger!")
                             print("\n")
                             loot_list.pop(0)
                             loot_list.insert(0, "false")
