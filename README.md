@@ -4,6 +4,8 @@
 For every monster killed the user gains experience pints, and after the user gains 20 experience points they gain 1 level.
 Each level gives the user more damage against the monsters.
 
+The program also uses a loot system. The loot list consists of a sword, shiny dagger, and shield. The swoed and dagger give a boost to user damage, and the shield reduces damage of monsters to the player.
+
 
 
 ## Motivation
