@@ -6,9 +6,11 @@
     Simulates a fight between multiple monsters with a loot system.
 '''
 import random
+
 roll = input("Type f to begin or q to quit: ")
-print("\n")                     #Initializes beginning variables
-p_health = 100
+print("\n")
+
+p_health = 100                  #Initializes beginning variables
 m_health = 40
 kills = 0
 exp = 0
@@ -19,6 +21,7 @@ lm_dmg = 1
 hm_dmg = 5
 item_dmg = 0
 tuff = 0
+
 loot_list = ["shiny_dagger", "shield", "sword"]            #Create loot list
 
 while roll != "q":                                      #Creates main menu
