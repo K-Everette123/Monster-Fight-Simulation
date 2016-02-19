@@ -3,7 +3,7 @@
     Author: Kyle Everette
     Date Last Modified: 2/17/16
 
-    Simulates a fight between multiple monsters with loot and save game
+    Simulates a fight between multiple monsters with a loot system.
 '''
 import random
 roll = input("Type f to begin or q to quit: ")
